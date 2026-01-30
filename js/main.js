@@ -498,6 +498,7 @@ $(document).ready(function() {
     // ==========================================
     console.log('%c Kinetic Construction ', 'background: #17446E; color: #EA771C; font-size: 20px; padding: 10px 20px; border-radius: 5px;');
     console.log('%c Crafting Exceptional Exhibition Experiences ', 'background: #EA771C; color: white; font-size: 12px; padding: 5px 10px;');
+    console.log('%c Desing And Developed By Pawan Rawat ', 'background: #EA771C; color: white; font-size: 12px; padding: 5px 10px;');
 });
 
 // ==========================================
